@@ -45,4 +45,7 @@ header{
         float: right;
         width: 50%;
         }
-       
+       .slider-show {
+	display: flex;
+	justify-content:center;
+}
