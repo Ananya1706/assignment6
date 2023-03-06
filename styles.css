@@ -48,3 +48,7 @@ header{
 	display: flex;
 	justify-content:center;
 }
+.ananya-info {
+	width: 60%;
+	float: right;
+}
