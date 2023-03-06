@@ -42,8 +42,7 @@ header{
             font-family: Verdana, Geneva, Tahoma, sans-serif;
         padding: 5px;
         margin: 10px;
-        float: right;
-        width: 50%;
+   
         }
        .slider-show {
 	display: flex;
